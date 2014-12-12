@@ -1,0 +1,4 @@
+#!/bin/sh
+xconsole -geometry 480x130-0-0 -daemon -notify -verbose -fn fixed -exitOnFail
+xmodmap /root/colemak-1.0/xmodmap/xmodmap.colemak && xset r 66
+vmware-user-suid-wrapper

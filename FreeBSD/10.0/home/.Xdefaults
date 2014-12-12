@@ -1,0 +1,5 @@
+XTerm*loginShell:true
+XTerm*selectToClipboard:true
+URxvt*reverseVideo:                             true
+URxvt.font: xft:Bitstream Vera Sans Mono:pixelsize=15
+URxvt*termName: rxvt-256color
